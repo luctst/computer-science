@@ -56,8 +56,7 @@ Résoudre un problème c’est bien mais le résoudre efficacement c’est mieux
 	* Ajouter un couvercle sur votre casserole afin que l’eau cuise plus vite.
 	* Mettre le feu à une température élevée.
 	* ..
-En ajoutant ces quelques étapes vos pâtes arriveront plus vite en conséquence votre algorithme est plus efficace que le précédent, on peut se dire que la vitesse de résolution de l’algorithme est un facteur qui permet de différencier un algorithme qui marche d’un algorithme qui marche et qui est efficace, nous verrons plus tard qu’il existent d’autres facteurs que la vitesse de résolution.
-
+En ajoutant ces quelques étapes vos pâtes arriveront plus vite en conséquence votre algorithme est plus efficace que le précédent, on peut se dire que la vitesse de résolution de l’algorithme est un facteur qui permet de différencier un algorithme qui marche d’un algorithme qui marche et qui est efficace, nous verrons plus tard qu’il existent d’autres facteurs autre que la vitesse de résolution.
 
 ## Pseudocode:
 *A faire.*
