@@ -2,7 +2,7 @@
   "private": true,
   "name": "computer-science",
   "version": "1.0.0",
-  "description": "*Computer science est l'étude des différents processus qui interagissent avec des données qui sont écrits par des programmes informatiques.*",
+  "description": "Computer science est l'étude des différents processus qui interagissent avec des données qui sont écrits par des programmes informatiques.",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

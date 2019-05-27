@@ -5,26 +5,28 @@
  * LICENSE file in the root directory of this source tree.
  */
 const siteConfig = {
-  title: 'Computer Science', // Title for your website.
+  title: 'Computer Science',
   tagline: 'A website for testing',
-  url: 'https://luctst.github.io', // Your website URL
-  baseUrl: '/', // Base URL for your project */
-  projectName: 'computer-science',
+  url: 'https://luctst.github.io',
+  baseUrl: '/',
+  customDocsPath: "website/docs",
+  projectName: 'Learn Computer Science',
   organizationName: 'luctst',
+  docsSideNavCollapsible: true,
   headerLinks: [
     {doc: 'doc1', label: 'Docs'},
     {page: 'help', label: 'Help'},
+    {languages: true}
   ],
-  footerIcon: 'img/favicon.ico',
-  favicon: 'img/favicon.ico',
+  editUrl: "https://github.com/luctst/computer-science/master/website/docs/",
   colors: {
-    primaryColor: '#3e6b32',
-    secondaryColor: '#2b4a23',
+    primaryColor: '#2E8555',
+    secondaryColor: '#205C3B',
   },
   copyright: `Copyright © ${new Date().getFullYear()}`,
   persoWebsite: `https://www.lucas-tostee.com`,
   highlight: {
-    theme: 'default',
+    theme: 'atom-one-dark',
   },
   scripts: ['https://buttons.github.io/buttons.js'],
   onPageNav: 'separate',
