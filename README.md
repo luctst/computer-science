@@ -1,21 +1,21 @@
-# Computer Science In French
-*Computer science est l'étude des différents processus qui interagissent avec des données qui sont écrits par des programmes informatiques.*
+# Learn computer science
+*Learn how works your computer to easily speaking with it. All the information's you will find in this project comes mostly from the CS50 hardvard program and internet.*
 
-Ce projet contient le résume des cours CS50 que vous pouvez retrouver sur le site [edx.org](https://www.edx.org). Il a pour but d'informer les développeurs Français qui souhaitent s'initier, renseigner sur les cours de computer science, voiçi des exemples de topics que vous retrouverez dans divers sections:
-* Structure de données.
-* Algorithme.
-* Structurer son logiciel.
-* C.
-* Python.
-* ...
+> **Note** - Thank's to all the people working on the [docusaurus project](https://docusaurus.io) i could easily create this repo.
 
-## Sommaire:
-* **Introduction** - [Introduction aux computer science](https://github.com/luctst/computer-science/blob/master/introduction/README.md).
-    * Comment les ordinateurs fonctionnent.
-    * Code binaire.
-    * Qu'est-ce qu'un algorithme.
+## Languages
+* French.
 
-## Contribuer:
+## Incoming.
+* English translation.
 
+## Getting-started
+To start using this project fork this repo, install all dependencies and run this command:
 
-## Authors:
+```bash
+cd website/
+npm start
+```
+
+## Contribute
+Make sure you read the `CODE_OF_CONDUCT` file to assure a good workflow :) After that you can check this [README.md](https://github.com/luctst/computer-science/blob/master/website/README.md) file to start contributing.
