@@ -1,5 +1,16 @@
 {
-  "docs": {
-    "Introduction": ["intro"]
+  "nav": {
+    "Cours": [
+      "intro",
+      "getting-started",
+      "what-is-code-machine",
+      "algo"
+    ],
+    "Helper": [
+      "helper/data-type",
+      "helper/what-is-ram",
+      "helper/serveur-dns",
+      "helper/structure-logiciel"
+    ]
   }
 }
