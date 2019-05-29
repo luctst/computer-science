@@ -5,8 +5,29 @@
     "previous": "Previous",
     "tagline": "A website for testing",
     "docs": {
+      "algo": {
+        "title": "Algorithme"
+      },
+      "getting-started": {
+        "title": "How computers works ?"
+      },
+      "helper/data-type": {
+        "title": "Types de données"
+      },
+      "helper/what-is-ram": {
+        "title": "Qu'est-ce que la RAM"
+      },
+      "helper/serveur-dns": {
+        "title": "Qu'est-ce qu'un serveur DNS ?"
+      },
+      "helper/structure-logiciel": {
+        "title": "Comment bien structurer son app, logiciel ?"
+      },
       "intro": {
         "title": "What is computer science ?"
+      },
+      "what-is-code-machine": {
+        "title": "Code humain vers code machine"
       }
     },
     "links": {
@@ -14,7 +35,8 @@
       "Help": "Help"
     },
     "categories": {
-      "Introduction": "Introduction"
+      "Cours": "Cours",
+      "Helper": "Helper"
     }
   },
   "pages-strings": {
