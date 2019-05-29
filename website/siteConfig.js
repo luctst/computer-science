@@ -9,12 +9,13 @@ const siteConfig = {
   tagline: 'A website for testing',
   url: 'https://luctst.github.io',
   baseUrl: '/',
-  customDocsPath: "website/docs",
+  customDocsPath: "website/docs/",
   projectName: 'Learn Computer Science',
   organizationName: 'luctst',
   docsSideNavCollapsible: true,
+  noIndex: false,
   headerLinks: [
-    {doc: 'doc1', label: 'Docs'},
+    {doc: 'intro', label: 'Docs'},
     {page: 'help', label: 'Help'},
     {languages: true}
   ],
