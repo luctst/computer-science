@@ -14,6 +14,11 @@ const siteConfig = {
   organizationName: 'luctst',
   docsSideNavCollapsible: true,
   noIndex: false,
+  fonts: {
+    myFont: [
+      "Jacques Francois"
+    ]
+  },
   headerLinks: [
     {doc: 'intro', label: 'Docs'},
     {page: 'help', label: 'Help'},
