@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/luctst/computer-science#readme",
   "dependencies": {
-    "docusaurus-init": "^1.10.0"
+    "docusaurus-init": "^1.14.1"
   }
 }
